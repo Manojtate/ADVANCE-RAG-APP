@@ -1,4 +1,4 @@
-package com.spring.ai.firstProject.first_project.advisors;
+package com.spring.ai.AdanceRagFirstProject.first_project.advisors;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

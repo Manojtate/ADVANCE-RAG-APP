@@ -1,4 +1,4 @@
-package com.spring.ai.firstProject.first_project.helper;
+package com.spring.ai.AdanceRagFirstProject.first_project.helper;
 
 import java.util.List;
 

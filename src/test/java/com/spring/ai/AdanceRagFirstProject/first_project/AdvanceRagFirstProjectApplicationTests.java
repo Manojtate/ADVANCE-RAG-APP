@@ -1,16 +1,16 @@
-package com.spring.ai.firstProject.first_project;
+package com.spring.ai.AdanceRagFirstProject.first_project;
 
-import com.spring.ai.firstProject.first_project.helper.Helper;
-import com.spring.ai.firstProject.first_project.services.ChatService;
+import com.spring.ai.AdanceRagFirstProject.first_project.helper.Helper;
+import com.spring.ai.AdanceRagFirstProject.first_project.services.CharServiceImp;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstProjectApplicationTests {
+class AdvanceRagFirstProjectApplicationTests {
 
     @Autowired
-    ChatService chatService;
+    CharServiceImp chatService;
 
     @Test
     void contextLoads() {
